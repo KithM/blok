@@ -3,7 +3,7 @@ var rotationSpeed = 0.01;
 var cubeSize = 200;
 
 function setup() {
-  createCanvas(400, 400, WEBGL);
+  createCanvas(400, 400, P3D);
 }
 
 function draw() {
